@@ -6,7 +6,6 @@ Louis wants to do a Crowd funding Campaign to fund her play "Fever", with an est
 
 ### US Parent Category Stats![image](https://user-images.githubusercontent.com/82982480/115709736-3012cf80-a337-11eb-87cd-e57cbddc1e27.png)
 
-### Great Britain Stats for Musicals![image](https://user-images.githubusercontent.com/82982480/115709843-4b7dda80-a337-11eb-8e76-61cf0741148f.png)
 |US Theater/Plays|Successful|Failed| 
 |----|-----|-------| 
 |Mean Goal|$5,049|$10,554| 
