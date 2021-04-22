@@ -20,5 +20,4 @@ Median Pledged	$3,168	$103
 Standard Deviation of Pledged	$8,335	$1,331
 Upper Quartile of Pledged	$5,699	$501
 Lower Quartile of Pledged	$1,717	$9
-IQR  of Pledged	$3,982	$492![image](https://user-images.githubusercontent.com/82982480/115710287-cb0ba980-a337-11eb-9b94-2206ec2326f7.png)
-
+IQR  of Pledged	$3,982	$492
