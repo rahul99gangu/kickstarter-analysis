@@ -1,4 +1,4 @@
-# An Analysis of Kickstarter Campaigns
+# An Analysis on Kickstarter Campaigns
 
 Louis wants to do a Crowd funding Campaign to fund her play "Fever", with an estimated budget of $10000+ for Sets, Costumes, Props, Makeup, Lighting,Rehearsal Space, Advertising, Programs and actors. Here is  Analysis on crowd funding data from US and Great Britain for Theater/Plays to determine weather there are specific projects that make project campaign succesful. This data analysis should help Louis to to uncover trends and plan her own Campaign to fund her play "Fever".
 
